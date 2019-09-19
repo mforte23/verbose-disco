@@ -1,0 +1,25 @@
+.posts {
+    list-style-type: none;
+    margin: 0;
+}
+
+.post {
+    margin: 1rem 0;
+
+    a {
+        color: #000;
+        background: f7f7f7;
+        text-decoration: none;
+        display: block;
+
+    }
+
+    h1 {
+        margin-bottom: 0;
+    }
+
+    p {
+        color: #777;
+    }
+}
+
